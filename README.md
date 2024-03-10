@@ -13,10 +13,10 @@ The Note Taker application is designed to help users write, save, and organize t
 
 To start the application, run the following command in your terminal:
 
-node server.js
 
-
-Once the server is running, you can access the application in your browser at `http://localhost:3001`.
+can access the application in your browser at `http://localhost:3001`.
+<img width="1440" alt="notes" src="https://github.com/TarunPara/Note-taker/assets/134483509/1475f87b-c7de-43c5-b33a-f74835f0a190">
+<img width="1440" alt="get-started" src="https://github.com/TarunPara/Note-taker/assets/134483509/16174fe8-b419-4501-89ee-f065febfa4a3">
 
 ## Application Functionality
 
